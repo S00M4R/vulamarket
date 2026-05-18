@@ -42,6 +42,7 @@ function layout_head(string $title = '', string $extra_css = ''): void {
             <a href="<?= APP_URL ?>/auth/login.php">Login</a>
             <a href="<?= APP_URL ?>/auth/register.php" class="btn btn-primary btn-sm">Sign Up</a>
         <?php endif; ?>
+        <a href="<?= APP_URL ?>/guide.php">Help</a>
     </div>
     <button class="nav-toggle" onclick="document.querySelector('.nav-links').classList.toggle('open')">☰</button>
 </nav>
