@@ -2,7 +2,7 @@
 
 > South Africa's simplest C2C marketplace — list in minutes, pay safely, ship with ease.
 
-Vula Market is a self-hosted, PHP-based consumer-to-consumer marketplace built for the South African market. It integrates **Yoco** for secure card payments, **The Courier Guy PUDO (TCG Locker)** for Locker-to-Door shipping, and an **escrow system** that holds funds until the buyer confirms delivery — protecting both parties on every transaction.
+Vula Market is a self-hosted, PHP-based consumer-to-consumer marketplace built for the South African market. It integrates **Yoco** for secure card payments, **The Courier Guy PUDO (TCG Locker)** for Locker-to-Door shipping, and an **escrow system** that holds funds until the buyer confirms delivery - protecting both parties on every transaction.
 
 ---
 
